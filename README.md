@@ -1,5 +1,5 @@
-<DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,9 +46,9 @@
 </head>
 <body>
     <div class="container">
-        <div class="badge">THE EVOLUTION OF GEOMATICS</div>
-        <h1>We will be online very soon; we are currently under construction.</h1>
-        <p>VISAN HOLDING</p>
+        <div class="badge">Próximamente</div>
+        <h1>Estamos trabajando en algo nuevo</h1>
+        <p>Nuestro sitio web se encuentra en construcción. Muy pronto estaremos en línea con nuevas soluciones para ti.</p>
     </div>
 </body>
 </html>
